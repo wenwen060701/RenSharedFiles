@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\AdminDashboard\AdminDashboard\bin\Debug\AdminDashboard.exe.config
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\AdminDashboard\AdminDashboard\bin\Debug\AdminDashboard.exe
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\AdminDashboard\AdminDashboard\bin\Debug\AdminDashboard.pdb
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\AdminDashboard\AdminDashboard\obj\Debug\AdminDashboard.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\AdminDashboard\AdminDashboard\obj\Debug\AdminDashboard.Form1.resources
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\AdminDashboard\AdminDashboard\obj\Debug\AdminDashboard.Properties.Resources.resources
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\AdminDashboard\AdminDashboard\obj\Debug\AdminDashboard.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\AdminDashboard\AdminDashboard\obj\Debug\AdminDashboard.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\AdminDashboard\AdminDashboard\obj\Debug\AdminDashboard.exe
+C:\Users\user\OneDrive\Documents\Microsoft Visual Studio\AdminDashboard\AdminDashboard\obj\Debug\AdminDashboard.pdb
